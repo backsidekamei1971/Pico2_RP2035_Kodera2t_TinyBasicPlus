@@ -1,4 +1,4 @@
-# Pico2_RP2035_Kodera2t_TinyBasicPlus
+# Pico2_RP2035_Kodera2t_TinyBasicPlus_for_ILI9488のみ
 Kodera2t TinyBasicPlusシリーズの中で、<br>
 これ↓だけが上手く【Pico2】に入る【Pico】には入らない<br>
 https://github.com/kodera2t/tinyBASIC_OLED/blob/master/ATMega328P%2BColorLCD/Ada_ATMega328_LCD.ino <br>
