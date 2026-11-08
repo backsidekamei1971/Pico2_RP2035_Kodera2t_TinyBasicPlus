@@ -27,7 +27,7 @@
 //      Support for Arduino 1.5 (SPI.h included, additional changes for DUE support)
 //
 // v0.12: 2013-03-01
-//      EEPROM load and save routines added: EFORMAT, ELIST, ELOAD, ESAVE, ECHAIN
+//     EEPROM load and save routines added: EFORMAT, ELIST, ELOAD, ESAVE, ECHAIN
 //      added EAUTORUN option (chains to EEProm saved program on startup)
 //      Bugfixes to build properly on non-arduino systems (PROGMEM #define workaround)
 //      cleaned up a bit of the #define options wrt TONE
